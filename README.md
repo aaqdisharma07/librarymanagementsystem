@@ -1,5 +1,6 @@
-Library Management System
-A simple console-based Library Management System built with Python that allows you to manage books — add,issue, return, and view them with ease.
+# Library Management System
+
+# A simple console-based Library Management System built with Python that allows you to manage books — add,issue, return, and view them with ease.
 
          <Features>
 Add Books — Add new books to the library 
